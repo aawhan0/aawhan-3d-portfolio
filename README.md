@@ -38,12 +38,13 @@ To build a premium, interactive portfolio that combines:
 ---
 
 ## 📁 Project Structure
-aawhan-3d-portfolio/
+```text
+/aawhan-3d-portfolio/
 │
 ├── client/ # React + Three.js frontend
 ├── server/ # Express + MongoDB backend
 └── README.md
-
+```
 
 ---
 
